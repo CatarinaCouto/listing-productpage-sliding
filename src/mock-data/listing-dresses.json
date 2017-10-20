@@ -1,0 +1,168 @@
+{
+    "name": "All bags",
+    "categories": ["Bags", "Accessories", "Travel Bags"],
+    "products": {
+        "entries": [
+            {
+                "id": 1763,
+                "name": "Funtumia elastica (Preuss) Stapf",
+                "slug": "funtumia-elastica-(preuss)-stapf",
+                "images": [
+                    "https://images.unsplash.com/photo-1496217590455-aa63a8350eea?fit=crop&w=400&h=600&q=80&cs=tinysrgb&crop=",
+                    "https://images.unsplash.com/photo-1504051771394-dd2e66b2e08f?fit=crop&w=400&h=600&q=80&cs=tinysrgb&crop="
+                ],
+                "price": {
+                    "value": 224.23,
+                    "formatted": "€224,23",
+                    "withoutDiscount": 334.94,
+                    "formattedWithoutDiscount": "€334,94"
+                },
+                "brand": {
+                    "id": 502,
+                    "name": "Ear Complex",
+                    "description": ""
+                },
+                "categories": [
+                    {
+                        "id": 135967,
+                        "name": "Clothing"
+                    },
+                    {
+                        "id": 135983,
+                        "name": "Dresses"
+                    },
+                ],
+                "sizes": [],
+                "isOneSize": true
+            },
+            {
+                "id": 1706,
+                "name": "Lomatium grayi (J.M. Coult. & Rose) J.M. Coult. & Rose var. grayi",
+                "slug": "lomatium-grayi-(j.m.-coult.-&-rose)-j.m.-coult.-&-rose-var.-grayi",
+                "images": [
+                    "https://images.unsplash.com/photo-1496217590455-aa63a8350eea?fit=crop&w=400&h=600&q=80&cs=tinysrgb&crop=",
+                    "https://images.unsplash.com/photo-1504051771394-dd2e66b2e08f?fit=crop&w=400&h=600&q=80&cs=tinysrgb&crop="
+                ],
+                "price": {
+                    "value": 707.56,
+                    "formatted": "€707,56",
+                    "withoutDiscount": 736.01,
+                    "formattedWithoutDiscount": "€736,01"
+                },
+                "brand": {
+                    "id": 118,
+                    "name": "Valium",
+                    "description": ""
+                },
+                "categories": [
+                    {
+                        "id": 135967,
+                        "name": "Clothing"
+                    },
+                    {
+                        "id": 135983,
+                        "name": "Dresses"
+                    },
+                ],
+                "sizes": [],
+                "isOneSize": true
+            },
+            {
+                "id": 1481,
+                "name": "Eriogonum hylophilum Reveal & Brotherson",
+                "slug": "eriogonum-hylophilum-reveal-&-brotherson",
+                "images": [
+                    "https://images.unsplash.com/photo-1496217590455-aa63a8350eea?fit=crop&w=400&h=600&q=80&cs=tinysrgb&crop=",
+                    "https://images.unsplash.com/photo-1504051771394-dd2e66b2e08f?fit=crop&w=400&h=600&q=80&cs=tinysrgb&crop="
+                ],
+                "price": {
+                    "value": 143.50,
+                    "formatted": "€143,50",
+                    "withoutDiscount": 152.54,
+                    "formattedWithoutDiscount": "€152,54"
+                },
+                "brand": {
+                    "id": 901,
+                    "name": "Stool Softener Plus Laxative",
+                    "description": ""
+                },
+                "categories": [
+                    {
+                        "id": 135967,
+                        "name": "Clothing"
+                    },
+                    {
+                        "id": 135983,
+                        "name": "Dresses"
+                    },
+                ],
+                "sizes": [],
+                "isOneSize": true
+            },
+            {
+                "id": 1227,
+                "name": "Corylus americana Walter",
+                "slug": "corylus-americana-walter",
+                "images": [
+                    "https://images.unsplash.com/photo-1496217590455-aa63a8350eea?fit=crop&w=400&h=600&q=80&cs=tinysrgb&crop=",
+                    "https://images.unsplash.com/photo-1504051771394-dd2e66b2e08f?fit=crop&w=400&h=600&q=80&cs=tinysrgb&crop="
+                ],
+                "price": {
+                    "value": 678.64,
+                    "formatted": "€678,64",
+                    "withoutDiscount": 696.47,
+                    "formattedWithoutDiscount": "€696,47"
+                },
+                "brand": {
+                    "id": 363,
+                    "name": "ONDANSETRON",
+                    "description": ""
+                },
+                "categories": [
+                    {
+                        "id": 135967,
+                        "name": "Clothing"
+                    },
+                    {
+                        "id": 135983,
+                        "name": "Dresses"
+                    },
+                ],
+                "sizes": [],
+                "isOneSize": true
+            },
+            {
+                "id": 1897,
+                "name": "Camissonia campestris (Greene) P.H. Raven ssp. campestris",
+                "slug": "camissonia-campestris-(greene)-p.h.-raven-ssp.-campestris",
+                "images": [
+                    "https://images.unsplash.com/photo-1496217590455-aa63a8350eea?fit=crop&w=400&h=600&q=80&cs=tinysrgb&crop=",
+                    "https://images.unsplash.com/photo-1504051771394-dd2e66b2e08f?fit=crop&w=400&h=600&q=80&cs=tinysrgb&crop="
+                ],
+                "price": {
+                    "value": 222.22,
+                    "formatted": "€222,22",
+                    "withoutDiscount": 259.45,
+                    "formattedWithoutDiscount": "€259,45"
+                },
+                "brand": {
+                    "id": 203,
+                    "name": "Inhuriol",
+                    "description": ""
+                },
+                "categories": [
+                    {
+                        "id": 135967,
+                        "name": "Clothing"
+                    },
+                    {
+                        "id": 135983,
+                        "name": "Dresses"
+                    },
+                ],
+                "sizes": [],
+                "isOneSize": true
+            },
+        ]
+    }
+}
